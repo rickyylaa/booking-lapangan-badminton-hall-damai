@@ -52,7 +52,7 @@ Buka file .env dan sesuaikan konfigurasi database dan lainnya sesuai lingkungan 
 DB_CONNECTION=mysql
 DB_HOST=127.0.0.1
 DB_PORT=3306
-DB_DATABASE=perpustakaan_sekolah
+DB_DATABASE=badminton_hall
 DB_USERNAME=root
 DB_PASSWORD=
 ```
