@@ -15,8 +15,8 @@ Ikuti langkah-langkah berikut untuk menjalankan aplikasi ini di komputer lokal A
 Pertama, clone repositori ini ke mesin lokal Anda:
 
 ```bash
-git clone https://github.com/rickyylaa/perpustkaan-sekolah-smpn-11-kota-jambi.git
-cd perpustkaan-sekolah-smpn-11-kota-jambi
+git clone https://github.com/rickyylaa/booking-lapangan-badminton-hall-damai.git
+cd booking-lapangan-badminton-hall-damai
 ```
 
 ### 2. Install Dependensi
